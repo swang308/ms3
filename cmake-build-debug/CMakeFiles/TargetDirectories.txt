@@ -1,0 +1,3 @@
+/Users/shanyunwang/Desktop/Seneca/academy/S3/oop345/OOP345/ms/MS3/cmake-build-debug/CMakeFiles/MS3.dir
+/Users/shanyunwang/Desktop/Seneca/academy/S3/oop345/OOP345/ms/MS3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shanyunwang/Desktop/Seneca/academy/S3/oop345/OOP345/ms/MS3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
