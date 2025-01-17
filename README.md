@@ -1,7 +1,11 @@
 # MS3
 
 ## Description
-MS3 is a project designed to demonstrate the integration of various technologies in creating a high-performance application. This project showcases the advanced capabilities of C++ and C for performance-critical sections, and uses CMake for efficient build management.
+The ms3 project is designed to demonstrate advanced techniques in C++ and C programming, combined with efficient build management using CMake. By working through this project, I learned how to:
+  * Implement performance-critical code in C++ and C.
+  * Use CMake for managing builds and dependencies.
+  * Integrate various components to create a cohesive application.
+By studying and using this project, I gain hands-on experience with powerful programming languages and tools, enhancing your skills in software development and build automation.
 
 ## Built With
 * [C++](https://isocpp.org/)
@@ -12,8 +16,8 @@ MS3 is a project designed to demonstrate the integration of various technologies
 
 ### Dependencies
 * [CMake](https://cmake.org/)
-* A C++ compiler (e.g., g++, clang++)
-* A C compiler (e.g., gcc, clang)
+* A C++ compiler (e.g., g++, clang++, CLion)
+* A C compiler (e.g., gcc, clang, CLion)
 
 ### Installing
 1. Clone the repository:
